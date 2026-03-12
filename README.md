@@ -3,18 +3,18 @@ An AI Chatbot 🤖 is a simple program that can understand and respond to human 
 
 ## ✨ Features
 
-💬 Text-based chatbot interaction
-🎤 Voice input using microphone
-🔊 Voice response using text-to-speech
-🧠 Intent detection using Machine Learning
-🌐 Web interface built with Streamlit
-⚡ Beginner-friendly AI project
+💬 Text-based chatbot interaction<br>
+🎤 Voice input using microphone<br>
+🔊 Voice response using text-to-speech<br>
+🧠 Intent detection using Machine Learning<br>
+🌐 Web interface built with Streamlit<br>
+⚡ Beginner-friendly AI project<br>
 
 ## outputs 
 <img width="1920" height="1020" alt="Screenshot 2026-03-12 232739" src="https://github.com/user-attachments/assets/d916bb1e-f3ea-4ab1-8508-1585b915d903" />
-
+<br>
 <img width="1920" height="1020" alt="Screenshot 2026-03-12 234232" src="https://github.com/user-attachments/assets/11d1eb8f-596a-4cc9-81ab-b62d922fe3ef" />
-
+<br>
 <img width="1920" height="1020" alt="Screenshot 2026-03-12 234217" src="https://github.com/user-attachments/assets/ebe85080-538b-4606-95a8-262b72b57cf2" />
 
 ## 🧠 Technologies Used
@@ -67,12 +67,7 @@ Speak into your microphone 🎤 and the chatbot will respond.
 
 ## 🚀 Future Improvements
 
-🧠 Add deep learning NLP models
-💬 Chat history 
-🌍 Multi-language suppor
-🤖 Integration with advanced AI models
-
-
-⭐ If you like this project
-
-Give it a star ⭐ on GitHub and feel free to contribute.
+🧠 Add deep learning NLP models<br>
+💬 Chat history <br>
+🌍 Multi-language support<br>
+🤖 Integration with advanced AI models<br>
