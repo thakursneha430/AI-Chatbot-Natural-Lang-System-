@@ -19,23 +19,23 @@ An AI Chatbot 🤖 is a simple program that can understand and respond to human 
 
 ## 🧠 Technologies Used
 
-🐍 Python
-📊 Scikit-learn
-🌐 Streamlit
-🎤 SpeechRecognition
-🔊 pyttsx3
-📚 Natural Language Processing (NLP)
+🐍 Python<br>
+📊 Scikit-learn<br>
+🌐 Streamlit<br>
+🎤 SpeechRecognition<br>
+🔊 pyttsx3<br>
+📚 Natural Language Processing (NLP)<br>
 
 ## 📂 Project Structure
 
 AI-Chatbot-NLP
 │
-├── app.py              # Streamlit web chatbot with voice button
-├── chatbot_model.py    # Machine learning model for intent detection
-├── training_data.py    # Training sentences and labels
-├── voice_chatbot.py    # Voice assistant version (terminal)
-├── requirements.txt    # Project dependencies
-└── README.md           # Project documentation
+├── app.py              # Streamlit web chatbot with voice button<br>
+├── chatbot_model.py    # Machine learning model for intent detection<br>
+├── training_data.py    # Training sentences and labels<br>
+├── voice_chatbot.py    # Voice assistant version (terminal)<br>
+├── requirements.txt    # Project dependencies<br>
+└── README.md           # Project documentation<br>
 
 
 ## ⚙️ Installation
@@ -61,8 +61,8 @@ http://localhost:8501
 
 ## 🎤 Voice Chatbot (Optional)
 
-You can also run the voice chatbot in terminal:
-python voice_chatbot.py
+You can also run the voice chatbot in terminal:<br>
+python voice_chatbot.py<br>
 Speak into your microphone 🎤 and the chatbot will respond.
 
 ## 🚀 Future Improvements
