@@ -11,11 +11,11 @@ An AI Chatbot 🤖 is a simple program that can understand and respond to human 
 ⚡ Beginner-friendly AI project<br>
 
 ## outputs 
-<img width="1920" height="1020" alt="Screenshot 2026-03-12 232739" src="https://github.com/user-attachments/assets/d916bb1e-f3ea-4ab1-8508-1585b915d903" />
+ 1. <img width="1920" height="1020" alt="Screenshot 2026-03-12 232739" src="https://github.com/user-attachments/assets/d916bb1e-f3ea-4ab1-8508-1585b915d903" />
 <br>
-<img width="1920" height="1020" alt="Screenshot 2026-03-12 234232" src="https://github.com/user-attachments/assets/11d1eb8f-596a-4cc9-81ab-b62d922fe3ef" />
+2. img width="1920" height="1020" alt="Screenshot 2026-03-12 234232" src="https://github.com/user-attachments/assets/11d1eb8f-596a-4cc9-81ab-b62d922fe3ef" />
 <br>
-<img width="1920" height="1020" alt="Screenshot 2026-03-12 234217" src="https://github.com/user-attachments/assets/ebe85080-538b-4606-95a8-262b72b57cf2" />
+3. <img width="1920" height="1020" alt="Screenshot 2026-03-12 234217" src="https://github.com/user-attachments/assets/ebe85080-538b-4606-95a8-262b72b57cf2" />
 
 ## 🧠 Technologies Used
 
@@ -28,14 +28,14 @@ An AI Chatbot 🤖 is a simple program that can understand and respond to human 
 
 ## 📂 Project Structure
 
-AI-Chatbot-NLP
+AI-Chatbot-NLP <br>
 │
-├── app.py              # Streamlit web chatbot with voice button<br>
-├── chatbot_model.py    # Machine learning model for intent detection<br>
-├── training_data.py    # Training sentences and labels<br>
-├── voice_chatbot.py    # Voice assistant version (terminal)<br>
-├── requirements.txt    # Project dependencies<br>
-└── README.md           # Project documentation<br>
+├── app.py                                 # Streamlit web chatbot with voice button<br>
+├── chatbot_model.py                       # Machine learning model for intent detection<br>
+├── training_data.py                       # Training sentences and labels<br>
+├── voice_chatbot.py                       # Voice assistant version (terminal)<br>
+├── requirements.txt                       # Project dependencies<br>
+└── README.md                              # Project documentation<br>
 
 
 ## ⚙️ Installation
@@ -54,10 +54,10 @@ pip install -r requirements.txt
 
 ▶️ Run the Chatbot
 
-Start the web chatbot:
-python -m streamlit run app.py
-Then open in your browser:
-http://localhost:8501
+Start the web chatbot:<br>
+python -m streamlit run app.py<br>
+Then open in your browser:<br>
+http://localhost:8501<br>
 
 ## 🎤 Voice Chatbot (Optional)
 
