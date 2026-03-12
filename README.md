@@ -11,11 +11,11 @@ An AI Chatbot 🤖 is a simple program that can understand and respond to human 
 ⚡ Beginner-friendly AI project<br>
 
 ## outputs 
- 1. <img width="1920" height="1020" alt="Screenshot 2026-03-12 232739" src="https://github.com/user-attachments/assets/d916bb1e-f3ea-4ab1-8508-1585b915d903" />
+<img width="1920" height="1020" alt="Screenshot 2026-03-12 232739" src="https://github.com/user-attachments/assets/d916bb1e-f3ea-4ab1-8508-1585b915d903" />
 <br>
-2. img width="1920" height="1020" alt="Screenshot 2026-03-12 234232" src="https://github.com/user-attachments/assets/11d1eb8f-596a-4cc9-81ab-b62d922fe3ef" />
+<img width="1920" height="1020" alt="Screenshot 2026-03-12 234232" src="https://github.com/user-attachments/assets/11d1eb8f-596a-4cc9-81ab-b62d922fe3ef" />
 <br>
-3. <img width="1920" height="1020" alt="Screenshot 2026-03-12 234217" src="https://github.com/user-attachments/assets/ebe85080-538b-4606-95a8-262b72b57cf2" />
+<img width="1920" height="1020" alt="Screenshot 2026-03-12 234217" src="https://github.com/user-attachments/assets/ebe85080-538b-4606-95a8-262b72b57cf2" />
 
 ## 🧠 Technologies Used
 
