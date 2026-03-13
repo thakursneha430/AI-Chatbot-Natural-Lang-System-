@@ -1,1 +1,6 @@
-nltk
+Python
+Scikit-learn
+Streamlit
+SpeechRecognition
+pyttsx3
+Natural Language Processing(NLP)
